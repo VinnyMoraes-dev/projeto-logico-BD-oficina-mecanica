@@ -1,4 +1,4 @@
-# Repositório do Projeto Lógico de Banco de Dados para Sistema de Controle e Gerenciamento de Execução de Ordens de Serviço em uma Oficina Mecânica
+Projeto Lógico de Banco de Dados para Sistema de Controle e Gerenciamento de Execução de Ordens de Serviço em uma Oficina Mecânica
 
 Desafio de Projeto da DIO - Construa um Projeto Lógico de Banco de Dados do Zero(OFICINA)
 Projeto proposto na Formação SQL Database Specialist.
