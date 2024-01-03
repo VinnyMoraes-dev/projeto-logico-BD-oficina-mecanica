@@ -1,6 +1,6 @@
 ## Projeto Lógico de Banco de Dados para Sistema de Controle e Gerenciamento de Execução de Ordens de Serviço em uma Oficina Mecânica
 
-Desafio de Projeto da DIO - Construa um Projeto Lógico de Banco de Dados do Zero(OFICINA)
+Desafio de Projeto da DIO - Construa um Projeto Lógico de Banco de Dados do Zero (Oficina Mecânica)
 Projeto proposto na Formação SQL Database Specialist.
 O projeto foi feito baseado em uma Oficina fictícia criada em outro projeto na plataforma da DIO , imaginado e pensado para que fosse tirado o maior proveito de aprendizagem do aluno, a ferramenta utilizada foi o MySQL Workbench 8.0 CE conforme orientado pela professora que ministra o curso.
 
